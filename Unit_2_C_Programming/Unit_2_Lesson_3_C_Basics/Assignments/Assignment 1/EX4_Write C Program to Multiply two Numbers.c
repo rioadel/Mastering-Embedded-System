@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Author      : Mario Adel
- Description : Multiplying two integers
+ Description : Multiplying two numbers
  ============================================================================
  */
 
